@@ -13,7 +13,7 @@ A aplicação consiste em um chat, onde precisa estar logado para enviar ou rece
 
 ## Layout mobile
 
-![Screenshot from 2021-03-25 05-38-49](https://user-images.githubusercontent.com/58492693/112444185-8ab30e80-8d2c-11eb-8947-800ad13b472e.png)  ![Screenshot from 2021-03-25 05-39-08](https://user-images.githubusercontent.com/58492693/112444217-9272b300-8d2c-11eb-9905-8d847715ed5c.png)
+![Screenshot from 2021-03-25 05-38-49](https://user-images.githubusercontent.com/58492693/112444185-8ab30e80-8d2c-11eb-8947-800ad13b472e.png)  ![Screenshot from 2021-03-25 05-40-58](https://user-images.githubusercontent.com/58492693/112444466-d2399a80-8d2c-11eb-80d5-66dc598d6457.png)
 
 
 
